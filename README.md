@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hey, I'm Luke Doudna
 
-<!--
-**lukee-d/lukee-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science major at Texas A&M University  
+💻 Passionate about software development, machine learning, and building cool stuff  
+🔨 Currently a Software Engineering Intern @ Hynes & Khater  
+🚀 Always learning — recently exploring C++, C#, and embedded systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Languages:** Python, C++, C#, Java, C  
+**Web:** HTML, CSS, JavaScript  
+**Tools & Tech:** Git, Visual Studio, Arduino, MQTT, REST APIs  
+**Concepts:** OOP, Data Structures, Networking, Machine Learning
