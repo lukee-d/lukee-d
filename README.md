@@ -1,8 +1,9 @@
 # 👋 Hey, I'm Luke Doudna
 
+## 👨‍💻 About Me
 🎓 I'm a Computer Science major at Texas A&M University  
 💻 Passionate about software development, machine learning, and building cool stuff  
-🔨 Currently a Software Engineering Intern @ Hynes & Khater  
+🔨 Currently a Software Engineering Intern @ Geophysical Technology Inc.
 🚀 Always learning — recently exploring C++, C#, and embedded systems
 
 ## 🛠️ Skills
